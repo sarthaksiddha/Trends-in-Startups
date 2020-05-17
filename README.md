@@ -1,6 +1,6 @@
 # Trends-in-Startups
-Research on a random data as a reporter on 'Tech-Crunch'
-
+A CODEACADEMY PROJECT-
+Research on a random data as a reporter on 'Tech-Crunch' 
 
 Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world.
 
